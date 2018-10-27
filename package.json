@@ -33,6 +33,7 @@
     "node": ">=0.8"
   },
   "dependencies": {
+    "iconv-lite": "^0.4.24",
     "q": "1.x",
     "underscore": "^1.8.3"
   },
